@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-
+https://www.digitalocean.com/community/tutorials/angular-route-resolvers
 One way for handling retrieving and displaying data from an API is to route a user to a component, and then in that component’s ngOnInit hook call a method in a service to get the necessary data. While getting the data, perhaps the component can show a loading indicator.
 
 There is another way to use what is known as a route resolver, which allows you to get data before navigating to the new route.
